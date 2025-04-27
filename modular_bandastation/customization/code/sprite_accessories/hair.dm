@@ -71,7 +71,7 @@
 /datum/sprite_accessory/hair/ponytail6
 	name = "Ponytail Strict"
 	icon = 'modular_bandastation/customization/icons/sprite_accessories/hair.dmi'
-	icon_state = "hair_ponytail6"
+	icon_state = "hair_ponytailstrict"
 
 /datum/sprite_accessory/hair/quadcurls
 	name = "Quadcurls"
